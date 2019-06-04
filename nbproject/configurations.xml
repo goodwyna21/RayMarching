@@ -8,6 +8,7 @@
       <itemPath>Camera.h</itemPath>
       <itemPath>Constants.h</itemPath>
       <itemPath>Scene.h</itemPath>
+      <itemPath>configsIn.h</itemPath>
     </logicalFolder>
     <logicalFolder name="ResourceFiles"
                    displayName="Resource Files"
@@ -51,6 +52,8 @@
       </item>
       <item path="Scene.h" ex="false" tool="3" flavor2="0">
       </item>
+      <item path="configsIn.h" ex="false" tool="3" flavor2="0">
+      </item>
       <item path="main.cpp" ex="false" tool="1" flavor2="0">
       </item>
     </conf>
@@ -81,6 +84,8 @@
       <item path="Constants.h" ex="false" tool="3" flavor2="0">
       </item>
       <item path="Scene.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="configsIn.h" ex="false" tool="3" flavor2="0">
       </item>
       <item path="main.cpp" ex="false" tool="1" flavor2="0">
       </item>

@@ -13,5 +13,6 @@ const double SCRDIST=10;
 const double MAXDIST = 400;
 enum _accessors {x,y,z};
 
+
 #endif /* CONSTANTS_H */
 
