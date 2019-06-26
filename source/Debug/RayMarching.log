@@ -1,0 +1,219 @@
+﻿  main.cpp
+C:\Users\gokat\Documents\Projects\c++\ArcherStandardRepo\Source\coordGeometry.h(15,29): warning C4566:  character represented by universal-character-name '\u27E8' cannot be represented in the current code page (1252)
+C:\Users\gokat\Documents\Projects\c++\ArcherStandardRepo\Source\coordGeometry.h(16,29): warning C4566:  character represented by universal-character-name '\u27E9' cannot be represented in the current code page (1252)
+C:\Users\gokat\Documents\Projects\c++\ArcherStandardRepo\Source\coordGeometry.h(78,26): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\gokat\Documents\Projects\c++\ArcherStandardRepo\Source\coordGeometry.h(182,26): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\gokat\Documents\Projects\c++\ArcherStandardRepo\Source\coordGeometry.h(186,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\gokat\Documents\Projects\c++\ArcherStandardRepo\Source\Vectors.h(22,32): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\gokat\Documents\Projects\c++\ArcherStandardRepo\Source\Vectors.h(24,29): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\gokat\Documents\Projects\c++\ArcherStandardRepo\Source\Vectors.h(26,32): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\gokat\Documents\Projects\c++\ArcherStandardRepo\Source\Vectors.h(35,22): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\gokat\Documents\Projects\c++\ArcherStandardRepo\Source\Vectors.h(37,16): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\gokat\Documents\Projects\c++\ArcherStandardRepo\Source\Vectors.h(43,22): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\gokat\Documents\Projects\c++\ArcherStandardRepo\Source\Vectors.h(48,22): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\gokat\Documents\Projects\c++\ArcherStandardRepo\Source\Vectors.h(55,22): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\gokat\Documents\Projects\c++\ArcherStandardRepo\Source\Vectors.h(57,15): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\gokat\Documents\Projects\c++\ArcherStandardRepo\Source\Vectors.h(65,37): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\gokat\Documents\Projects\c++\ArcherStandardRepo\Source\Vectors.h(67,37): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\gokat\Documents\Projects\c++\ArcherStandardRepo\Source\Vectors.h(70,18): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\gokat\Documents\Projects\c++\ArcherStandardRepo\Source\Images.h(72,26): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\gokat\Documents\Projects\c++\ArcherStandardRepo\Source\Images.h(73,30): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\gokat\Documents\Projects\c++\ArcherStandardRepo\Source\Strings.h(32,22): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\gokat\Documents\Projects\c++\ArcherStandardRepo\Source\Strings.h(47,19): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\gokat\Documents\Projects\c++\ArcherStandardRepo\Source\Strings.h(85,26): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\gokat\Documents\Projects\c++\ArcherStandardRepo\Source\Strings.h(121,26): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\gokat\Documents\Projects\c++\ArcherStandardRepo\Source\Strings.h(123,19): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\gokat\Documents\Projects\c++\ArcherStandardRepo\Source\Strings.h(129,26): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\gokat\Documents\Projects\c++\ArcherStandardRepo\Source\Strings.h(134,44): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\gokat\Documents\Projects\c++\ArcherStandardRepo\Source\Strings.h(143,22): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\gokat\Documents\Projects\c++\ArcherStandardRepo\Source\Strings.h(144,17): warning C4018:  '>=': signed/unsigned mismatch
+C:\Users\gokat\Documents\Projects\c++\ArcherStandardRepo\Source\Strings.h(151,26): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\gokat\Documents\Projects\c++\ArcherStandardRepo\Source\Strings.h(165,22): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\gokat\Documents\Projects\c++\ArcherStandardRepo\Source\Strings.h(176,26): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\gokat\Documents\Projects\c++\ArcherStandardRepo\Source\Strings.h(180,22): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\gokat\Documents\Projects\c++\ArcherStandardRepo\Source\Strings.h(197,22): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\gokat\Documents\Projects\c++\ArcherStandardRepo\Source\Strings.h(200,22): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\gokat\Documents\Projects\c++\ArcherStandardRepo\Source\Table.h(97,47): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\gokat\Documents\Projects\c++\ArcherStandardRepo\Source\Table.h(98,51): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\gokat\Documents\Projects\c++\ArcherStandardRepo\Source\Table.h(102,47): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\gokat\Documents\Projects\c++\ArcherStandardRepo\Source\Table.h(106,51): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\gokat\Documents\Projects\c++\ArcherStandardRepo\Source\Table.h(113,28): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\gokat\Documents\Projects\c++\ArcherStandardRepo\Source\Table.h(114,23): warning C4018:  '>=': signed/unsigned mismatch
+C:\Users\gokat\Documents\Projects\c++\ArcherStandardRepo\Source\Table.h(135,26): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\gokat\Documents\Projects\c++\ArcherStandardRepo\Source\Table.h(142,26): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\gokat\Documents\Projects\c++\ArcherStandardRepo\Source\Table.h(143,30): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\gokat\Documents\Projects\c++\ArcherStandardRepo\Source\Table.h(159,26): warning C4018:  '<=': signed/unsigned mismatch
+C:\Users\gokat\Documents\Projects\c++\ArcherStandardRepo\Source\Table.h(169,26): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\gokat\Documents\Projects\c++\ArcherStandardRepo\Source\Debugging.h(37,39): error C2535:  'std::string bkpnts::operator ()(size_t)': member function already defined or declared
+C:\Users\gokat\Documents\Projects\c++\ArcherStandardRepo\Source\Debugging.h(36): message :  see declaration of 'bkpnts::operator ()'
+C:\Users\gokat\Documents\Projects\c++\RayMarching\source\Bodies.h(46,26): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\gokat\Documents\Projects\c++\RayMarching\source\Bodies.h(56,26): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\gokat\Documents\Projects\c++\RayMarching\source\Bodies.h(62,26): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\gokat\Documents\Projects\c++\RayMarching\source\Bodies.h(64,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\gokat\Documents\Projects\c++\RayMarching\source\Bodies.h(72,26): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\gokat\Documents\Projects\c++\RayMarching\source\Bodies.h(91,26): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\gokat\Documents\Projects\c++\RayMarching\source\Bodies.h(101,26): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\gokat\Documents\Projects\c++\RayMarching\source\Bodies.h(107,26): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\gokat\Documents\Projects\c++\RayMarching\source\Bodies.h(109,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\gokat\Documents\Projects\c++\RayMarching\source\Bodies.h(117,26): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\gokat\Documents\Projects\c++\RayMarching\source\Bodies.h(136,26): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\gokat\Documents\Projects\c++\RayMarching\source\Bodies.h(146,26): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\gokat\Documents\Projects\c++\RayMarching\source\Bodies.h(152,26): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\gokat\Documents\Projects\c++\RayMarching\source\Bodies.h(154,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\gokat\Documents\Projects\c++\RayMarching\source\Bodies.h(162,26): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\gokat\Documents\Projects\c++\RayMarching\source\Scene.h(22,26): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\gokat\Documents\Projects\c++\RayMarching\source\Scene.h(48,26): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\gokat\Documents\Projects\c++\RayMarching\source\Camera.h(8,22): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\gokat\Documents\Projects\c++\RayMarching\source\Camera.h(79,64): warning C4566:  character represented by universal-character-name '\u03B3' cannot be represented in the current code page (1252)
+C:\Users\gokat\Documents\Projects\c++\RayMarching\source\Camera.h(94,13): warning C4566:  character represented by universal-character-name '\u1E9F' cannot be represented in the current code page (1252)
+C:\Users\gokat\Documents\Projects\c++\RayMarching\source\Camera.h(130,26): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\gokat\Documents\Projects\c++\RayMarching\source\configsIn.h(108,64): error C2079:  'ss' uses undefined class 'std::basic_stringstream<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\gokat\Documents\Projects\c++\RayMarching\source\configsIn.h(108,65): error C2440:  'initializing': cannot convert from 'const char [36]' to 'int'
+C:\Users\gokat\Documents\Projects\c++\RayMarching\source\configsIn.h(108,24): message :  There is no context in which this conversion is possible
+C:\Users\gokat\Documents\Projects\c++\RayMarching\source\configsIn.h(114,13): error C2672:  'getline': no matching overloaded function found
+C:\Users\gokat\Documents\Projects\c++\RayMarching\source\configsIn.h(114,38): error C2780:  'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &)': expects 2 arguments - 3 provided
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(78): message :  see declaration of 'std::getline'
+C:\Users\gokat\Documents\Projects\c++\RayMarching\source\configsIn.h(114,38): error C2784:  'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)': could not deduce template argument for 'std::basic_istream<_Elem,_Traits> &' from 'int'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(71): message :  see declaration of 'std::getline'
+C:\Users\gokat\Documents\Projects\c++\RayMarching\source\configsIn.h(114,38): error C2780:  'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &)': expects 2 arguments - 3 provided
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(65): message :  see declaration of 'std::getline'
+C:\Users\gokat\Documents\Projects\c++\RayMarching\source\configsIn.h(114,38): error C2784:  'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)': could not deduce template argument for 'std::basic_istream<_Elem,_Traits> &&' from 'int'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\string(22): message :  see declaration of 'std::getline'
+C:\Users\gokat\Documents\Projects\c++\RayMarching\source\configsIn.h(124,29): error C2679:  binary '=': no operator found which takes a right-hand operand of type 'const Color' (or there is no acceptable conversion)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xstring(2587,19): message :  could be 'std::basic_string<char,std::char_traits<char>,std::allocator<char>> &std::basic_string<char,std::char_traits<char>,std::allocator<char>>::operator =(const _Elem)'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xstring(2587,19): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xstring(2587,19): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xstring(2587,19): message :             _Elem=char
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xstring(2587,19): message :         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xstring(2583,19): message :  or       'std::basic_string<char,std::char_traits<char>,std::allocator<char>> &std::basic_string<char,std::char_traits<char>,std::allocator<char>>::operator =(const _Elem *const )'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xstring(2583,19): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xstring(2583,19): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xstring(2583,19): message :             _Elem=char
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xstring(2583,19): message :         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xstring(2568,19): message :  or       'std::basic_string<char,std::char_traits<char>,std::allocator<char>> &std::basic_string<char,std::char_traits<char>,std::allocator<char>>::operator =(const std::basic_string<char,std::char_traits<char>,std::allocator<char>> &)'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xstring(2509,19): message :  or       'std::basic_string<char,std::char_traits<char>,std::allocator<char>> &std::basic_string<char,std::char_traits<char>,std::allocator<char>>::operator =(std::initializer_list<_Elem>)'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xstring(2509,19): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xstring(2509,19): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xstring(2509,19): message :             _Elem=char
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xstring(2509,19): message :         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xstring(2414,19): message :  or       'std::basic_string<char,std::char_traits<char>,std::allocator<char>> &std::basic_string<char,std::char_traits<char>,std::allocator<char>>::operator =(std::basic_string<char,std::char_traits<char>,std::allocator<char>> &&) noexcept'
+C:\Users\gokat\Documents\Projects\c++\RayMarching\source\configsIn.h(124,29): message :  while trying to match the argument list '(std::string, const Color)'
+C:\Users\gokat\Documents\Projects\c++\RayMarching\source\configsIn.h(129,26): error C2679:  binary '=': no operator found which takes a right-hand operand of type 'const Color' (or there is no acceptable conversion)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xstring(2587,19): message :  could be 'std::basic_string<char,std::char_traits<char>,std::allocator<char>> &std::basic_string<char,std::char_traits<char>,std::allocator<char>>::operator =(const _Elem)'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xstring(2587,19): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xstring(2587,19): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xstring(2587,19): message :             _Elem=char
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xstring(2587,19): message :         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xstring(2583,19): message :  or       'std::basic_string<char,std::char_traits<char>,std::allocator<char>> &std::basic_string<char,std::char_traits<char>,std::allocator<char>>::operator =(const _Elem *const )'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xstring(2583,19): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xstring(2583,19): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xstring(2583,19): message :             _Elem=char
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xstring(2583,19): message :         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xstring(2568,19): message :  or       'std::basic_string<char,std::char_traits<char>,std::allocator<char>> &std::basic_string<char,std::char_traits<char>,std::allocator<char>>::operator =(const std::basic_string<char,std::char_traits<char>,std::allocator<char>> &)'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xstring(2509,19): message :  or       'std::basic_string<char,std::char_traits<char>,std::allocator<char>> &std::basic_string<char,std::char_traits<char>,std::allocator<char>>::operator =(std::initializer_list<_Elem>)'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xstring(2509,19): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xstring(2509,19): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xstring(2509,19): message :             _Elem=char
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xstring(2509,19): message :         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xstring(2414,19): message :  or       'std::basic_string<char,std::char_traits<char>,std::allocator<char>> &std::basic_string<char,std::char_traits<char>,std::allocator<char>>::operator =(std::basic_string<char,std::char_traits<char>,std::allocator<char>> &&) noexcept'
+C:\Users\gokat\Documents\Projects\c++\RayMarching\source\configsIn.h(129,26): message :  while trying to match the argument list '(std::string, const Color)'
+C:\Users\gokat\Documents\Projects\c++\RayMarching\source\configsIn.h(134,24): error C2679:  binary '=': no operator found which takes a right-hand operand of type 'const Vec' (or there is no acceptable conversion)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xstring(2587,19): message :  could be 'std::basic_string<char,std::char_traits<char>,std::allocator<char>> &std::basic_string<char,std::char_traits<char>,std::allocator<char>>::operator =(const _Elem)'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xstring(2587,19): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xstring(2587,19): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xstring(2587,19): message :             _Elem=char
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xstring(2587,19): message :         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xstring(2583,19): message :  or       'std::basic_string<char,std::char_traits<char>,std::allocator<char>> &std::basic_string<char,std::char_traits<char>,std::allocator<char>>::operator =(const _Elem *const )'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xstring(2583,19): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xstring(2583,19): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xstring(2583,19): message :             _Elem=char
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xstring(2583,19): message :         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xstring(2568,19): message :  or       'std::basic_string<char,std::char_traits<char>,std::allocator<char>> &std::basic_string<char,std::char_traits<char>,std::allocator<char>>::operator =(const std::basic_string<char,std::char_traits<char>,std::allocator<char>> &)'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xstring(2509,19): message :  or       'std::basic_string<char,std::char_traits<char>,std::allocator<char>> &std::basic_string<char,std::char_traits<char>,std::allocator<char>>::operator =(std::initializer_list<_Elem>)'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xstring(2509,19): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xstring(2509,19): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xstring(2509,19): message :             _Elem=char
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xstring(2509,19): message :         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xstring(2414,19): message :  or       'std::basic_string<char,std::char_traits<char>,std::allocator<char>> &std::basic_string<char,std::char_traits<char>,std::allocator<char>>::operator =(std::basic_string<char,std::char_traits<char>,std::allocator<char>> &&) noexcept'
+C:\Users\gokat\Documents\Projects\c++\RayMarching\source\configsIn.h(134,24): message :  while trying to match the argument list '(std::string, const Vec)'
+C:\Users\gokat\Documents\Projects\c++\RayMarching\source\configsIn.h(139,25): error C2679:  binary '=': no operator found which takes a right-hand operand of type 'const Vec' (or there is no acceptable conversion)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xstring(2587,19): message :  could be 'std::basic_string<char,std::char_traits<char>,std::allocator<char>> &std::basic_string<char,std::char_traits<char>,std::allocator<char>>::operator =(const _Elem)'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xstring(2587,19): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xstring(2587,19): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xstring(2587,19): message :             _Elem=char
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xstring(2587,19): message :         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xstring(2583,19): message :  or       'std::basic_string<char,std::char_traits<char>,std::allocator<char>> &std::basic_string<char,std::char_traits<char>,std::allocator<char>>::operator =(const _Elem *const )'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xstring(2583,19): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xstring(2583,19): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xstring(2583,19): message :             _Elem=char
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xstring(2583,19): message :         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xstring(2568,19): message :  or       'std::basic_string<char,std::char_traits<char>,std::allocator<char>> &std::basic_string<char,std::char_traits<char>,std::allocator<char>>::operator =(const std::basic_string<char,std::char_traits<char>,std::allocator<char>> &)'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xstring(2509,19): message :  or       'std::basic_string<char,std::char_traits<char>,std::allocator<char>> &std::basic_string<char,std::char_traits<char>,std::allocator<char>>::operator =(std::initializer_list<_Elem>)'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xstring(2509,19): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xstring(2509,19): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xstring(2509,19): message :             _Elem=char
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xstring(2509,19): message :         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xstring(2414,19): message :  or       'std::basic_string<char,std::char_traits<char>,std::allocator<char>> &std::basic_string<char,std::char_traits<char>,std::allocator<char>>::operator =(std::basic_string<char,std::char_traits<char>,std::allocator<char>> &&) noexcept'
+C:\Users\gokat\Documents\Projects\c++\RayMarching\source\configsIn.h(139,25): message :  while trying to match the argument list '(std::string, const Vec)'
+C:\Users\gokat\Documents\Projects\c++\RayMarching\source\configsIn.h(144,29): error C2679:  binary '=': no operator found which takes a right-hand operand of type 'const Vec' (or there is no acceptable conversion)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xstring(2587,19): message :  could be 'std::basic_string<char,std::char_traits<char>,std::allocator<char>> &std::basic_string<char,std::char_traits<char>,std::allocator<char>>::operator =(const _Elem)'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xstring(2587,19): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xstring(2587,19): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xstring(2587,19): message :             _Elem=char
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xstring(2587,19): message :         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xstring(2583,19): message :  or       'std::basic_string<char,std::char_traits<char>,std::allocator<char>> &std::basic_string<char,std::char_traits<char>,std::allocator<char>>::operator =(const _Elem *const )'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xstring(2583,19): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xstring(2583,19): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xstring(2583,19): message :             _Elem=char
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xstring(2583,19): message :         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xstring(2568,19): message :  or       'std::basic_string<char,std::char_traits<char>,std::allocator<char>> &std::basic_string<char,std::char_traits<char>,std::allocator<char>>::operator =(const std::basic_string<char,std::char_traits<char>,std::allocator<char>> &)'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xstring(2509,19): message :  or       'std::basic_string<char,std::char_traits<char>,std::allocator<char>> &std::basic_string<char,std::char_traits<char>,std::allocator<char>>::operator =(std::initializer_list<_Elem>)'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xstring(2509,19): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xstring(2509,19): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xstring(2509,19): message :             _Elem=char
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xstring(2509,19): message :         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xstring(2414,19): message :  or       'std::basic_string<char,std::char_traits<char>,std::allocator<char>> &std::basic_string<char,std::char_traits<char>,std::allocator<char>>::operator =(std::basic_string<char,std::char_traits<char>,std::allocator<char>> &&) noexcept'
+C:\Users\gokat\Documents\Projects\c++\RayMarching\source\configsIn.h(144,29): message :  while trying to match the argument list '(std::string, const Vec)'
+C:\Users\gokat\Documents\Projects\c++\RayMarching\source\configsIn.h(149,15): warning C4244:  'argument': conversion from 'const double' to 'const _Elem', possible loss of data
+C:\Users\gokat\Documents\Projects\c++\RayMarching\source\configsIn.h(149,15): warning C4244:         with
+C:\Users\gokat\Documents\Projects\c++\RayMarching\source\configsIn.h(149,15): warning C4244:         [
+C:\Users\gokat\Documents\Projects\c++\RayMarching\source\configsIn.h(149,15): warning C4244:             _Elem=char
+C:\Users\gokat\Documents\Projects\c++\RayMarching\source\configsIn.h(149,15): warning C4244:         ]
+C:\Users\gokat\Documents\Projects\c++\RayMarching\source\configsIn.h(154,15): warning C4244:  'argument': conversion from 'const double' to 'const _Elem', possible loss of data
+C:\Users\gokat\Documents\Projects\c++\RayMarching\source\configsIn.h(154,15): warning C4244:         with
+C:\Users\gokat\Documents\Projects\c++\RayMarching\source\configsIn.h(154,15): warning C4244:         [
+C:\Users\gokat\Documents\Projects\c++\RayMarching\source\configsIn.h(154,15): warning C4244:             _Elem=char
+C:\Users\gokat\Documents\Projects\c++\RayMarching\source\configsIn.h(154,15): warning C4244:         ]
+C:\Users\gokat\Documents\Projects\c++\RayMarching\source\configsIn.h(159,15): error C2065:  'DEF_OBJECTS': undeclared identifier
+C:\Users\gokat\Documents\Projects\c++\RayMarching\source\configsIn.h(164,28): error C2679:  binary '=': no operator found which takes a right-hand operand of type 'const std::vector<std::vector<Body *,std::allocator<_Ty>>,std::allocator<std::vector<_Ty,std::allocator<_Ty>>>>' (or there is no acceptable conversion)
+C:\Users\gokat\Documents\Projects\c++\RayMarching\source\configsIn.h(164,28): error C2679:         with
+C:\Users\gokat\Documents\Projects\c++\RayMarching\source\configsIn.h(164,28): error C2679:         [
+C:\Users\gokat\Documents\Projects\c++\RayMarching\source\configsIn.h(164,28): error C2679:             _Ty=Body *
+C:\Users\gokat\Documents\Projects\c++\RayMarching\source\configsIn.h(164,28): error C2679:         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xstring(2587,19): message :  could be 'std::basic_string<char,std::char_traits<char>,std::allocator<char>> &std::basic_string<char,std::char_traits<char>,std::allocator<char>>::operator =(const _Elem)'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xstring(2587,19): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xstring(2587,19): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xstring(2587,19): message :             _Elem=char
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xstring(2587,19): message :         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xstring(2583,19): message :  or       'std::basic_string<char,std::char_traits<char>,std::allocator<char>> &std::basic_string<char,std::char_traits<char>,std::allocator<char>>::operator =(const _Elem *const )'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xstring(2583,19): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xstring(2583,19): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xstring(2583,19): message :             _Elem=char
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xstring(2583,19): message :         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xstring(2568,19): message :  or       'std::basic_string<char,std::char_traits<char>,std::allocator<char>> &std::basic_string<char,std::char_traits<char>,std::allocator<char>>::operator =(const std::basic_string<char,std::char_traits<char>,std::allocator<char>> &)'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xstring(2509,19): message :  or       'std::basic_string<char,std::char_traits<char>,std::allocator<char>> &std::basic_string<char,std::char_traits<char>,std::allocator<char>>::operator =(std::initializer_list<_Elem>)'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xstring(2509,19): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xstring(2509,19): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xstring(2509,19): message :             _Elem=char
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xstring(2509,19): message :         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xstring(2414,19): message :  or       'std::basic_string<char,std::char_traits<char>,std::allocator<char>> &std::basic_string<char,std::char_traits<char>,std::allocator<char>>::operator =(std::basic_string<char,std::char_traits<char>,std::allocator<char>> &&) noexcept'
+C:\Users\gokat\Documents\Projects\c++\RayMarching\source\configsIn.h(164,28): message :  while trying to match the argument list '(std::string, const std::vector<std::vector<Body *,std::allocator<_Ty>>,std::allocator<std::vector<_Ty,std::allocator<_Ty>>>>)'
+C:\Users\gokat\Documents\Projects\c++\RayMarching\source\configsIn.h(164,28): message :         with
+C:\Users\gokat\Documents\Projects\c++\RayMarching\source\configsIn.h(164,28): message :         [
+C:\Users\gokat\Documents\Projects\c++\RayMarching\source\configsIn.h(164,28): message :             _Ty=Body *
+C:\Users\gokat\Documents\Projects\c++\RayMarching\source\configsIn.h(164,28): message :         ]
+C:\Users\gokat\Documents\Projects\c++\RayMarching\source\main.cpp(42,16): warning C4244:  'initializing': conversion from '_Rep' to 'double', possible loss of data
+C:\Users\gokat\Documents\Projects\c++\RayMarching\source\main.cpp(42,16): warning C4244:         with
+C:\Users\gokat\Documents\Projects\c++\RayMarching\source\main.cpp(42,16): warning C4244:         [
+C:\Users\gokat\Documents\Projects\c++\RayMarching\source\main.cpp(42,16): warning C4244:             _Rep=__int64
+C:\Users\gokat\Documents\Projects\c++\RayMarching\source\main.cpp(42,16): warning C4244:         ]
